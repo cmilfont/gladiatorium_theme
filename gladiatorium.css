@@ -1,0 +1,46 @@
+html {
+  margin-top: 0!important;
+}
+
+body .site {
+  background-image: url("http://www.gladiatorium.com.br/wp-content/uploads/2013/07/background.png");
+  background-position: top center;
+  background-repeat: no-repeat;
+}
+
+.site-header h1, .site-header h2 {
+  text-align: center;
+}
+
+.main-navigation li a {
+  color: #80795F; /*#415D8D;*/
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.main-navigation li a:hover {
+  color: #BD954F; /*#344466;*/
+}
+
+.main-navigation .current-menu-item > a, 
+.main-navigation .current-menu-ancestor > a, 
+.main-navigation .current_page_item > a, 
+.main-navigation .current_page_ancestor > a {
+  color: #BD954F;
+}
+
+.main-navigation ul.nav-menu, .main-navigation div.nav-menu > ul {
+  border-bottom: 1px solid #8C8A7E;
+  border-top: 1px solid #8C8A7E;
+  display: inline-block !important;
+  text-align: left;
+  width: 100%;
+}
+
+#main {
+  background-color: #fff;
+  padding: 5px;
+  border: 1px solid #E6E6E6;
+
+  border-radius: 5px;
+}
