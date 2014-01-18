@@ -30,7 +30,7 @@
 <![endif]-->
 <?php wp_head(); ?>
 
-<link rel="stylesheet" href="/wp-content/themes/gladiatorium_theme/gladiatorium.css" type="text/css" media="all">
+<link rel="stylesheet" href="/wp-content/themes/gladiatorium/gladiatorium.css" type="text/css" media="all">
 
 </head>
 
